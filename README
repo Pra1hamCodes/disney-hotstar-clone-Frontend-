@@ -5,9 +5,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -18,19 +16,6 @@ Welcome to the Disney+ Hotstar Clone (Frontend) repository! This project is a we
 
 This README file will guide you through the setup, usage, and customization of this frontend clone.
 
-## Features
-
-- **User Authentication**: Allow users to create accounts and log in securely.
-- **Content Discovery**: Browse and search for movies, TV shows, and sports events.
-- **Streaming**: Enjoy high-quality video streaming with adaptive bitrate.
-- **Favorites**: Allow users to mark content as favorites for easy access.
-- **Subscription Plans**: Implement subscription plans and payment integration.
-- **Responsive Design**: Ensure a seamless experience on various devices and screen sizes.
-- **User Profiles**: Enable users to manage their profiles and preferences.
-- **Recommended Content**: Offer personalized content recommendations.
-- **Notifications**: Send updates and recommendations to users.
-- **Search Functionality**: Implement a powerful search feature with filters.
-- **User Reviews**: Allow users to rate and review content.
 
 ## Getting Started
 
@@ -66,27 +51,11 @@ To get started with this Disney+ Hotstar Clone (Frontend), follow these steps:
 
    This will start the development server, and you can access the application in your web browser at `http://localhost:3000`.
 
-## Usage
-
-Here are some tips on how to use this Disney+ Hotstar Clone (Frontend):
-
-- **User Authentication**: Register for an account or log in using the provided options.
-- **Browse Content**: Explore movies, TV shows, and sports events by categories or use the search feature.
-- **Streaming**: Click on a title to start streaming content. Adjust video quality as needed.
-- **Favorites**: Add content to your favorites list by clicking the heart icon.
-- **Subscription**: If implemented, select a subscription plan and complete the payment process.
-- **Profile**: Manage your profile settings, preferences, and viewing history.
-- **Notifications**: Stay updated with notifications and personalized recommendations.
-- **Reviews**: Share your thoughts by rating and reviewing content.
 
 ## Technologies Used
 
 This project is built using the following technologies:
 
-- **React**: Frontend library for building user interfaces.
-- **Redux**: State management for handling application data.
-- **React Router**: Navigation and routing within the application.
-- **Axios**: For making HTTP requests to the backend server.
 - **Bootstrap (or any CSS framework)**: For responsive and modern UI components.
 
 Make sure to refer to the project's specific documentation or setup instructions for any additional technologies used.
@@ -101,4 +70,3 @@ This Disney+ Hotstar Clone (Frontend) is open-source software licensed under the
 
 ---
 
-**Note**: This README is a template and should be customized to match the specifics of your Disney+ Hotstar Clone (Frontend) project. Provide detailed setup instructions, deployment guidelines, and any additional information that may be relevant to your project.
